@@ -4,20 +4,20 @@ import './style.css'
 function Footer() {
   return (
     <footer>
-      <nav class="navbar fixed-bottom">
-        <div class="container">
-          <div class="row footer">
-            <div class="col-md-4 col-xs-4">
-              <a class="navbar-brand" href="https://github.com/wlawsonkelly"
+      <nav className="navbar">
+        <div className="container">
+          <div className="row footer">
+            <div className="col-md-4 col-xs-4">
+              <a className="navbar-brand" href="https://github.com/wlawsonkelly"
                 >Github</a>
             </div>
-            <div class="col-md-4 col-xs-4">
-              <a class="navbar-brand" href="https://www.linkedin.com/in/law95/"
+            <div className="col-md-4 col-xs-4">
+              <a className="navbar-brand" href="https://www.linkedin.com/in/law95/"
                 >LinkedIn</a>
             </div>
-            <div class="col-md-4 col-xs-4">
+            <div className="col-md-4 col-xs-4">
               <a
-                class="navbar-brand"
+                className="navbar-brand"
                 href="https://stackoverflow.com/users/10708100/guywitmanyhquestion"
                 >Stack Overflow</a>
             </div>
