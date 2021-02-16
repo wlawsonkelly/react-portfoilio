@@ -19,8 +19,7 @@ function Home() {
           </div>
       </div>
       <div className="row">
-        <div className="col-md-1"></div>
-        <div className="col-md-10">
+        <div className="col-md-12">
           <div className="card-list">
             <div className="card">
               <div className="inner-card">
@@ -50,11 +49,7 @@ function Home() {
                 <div className="card-back">
                   <h1>Crusht</h1>
                   <p>Dating app that allows users to match via venues</p>
-                  <img
-                    className="app-store-img" 
-                    src="https://miro.medium.com/max/8982/1*V9-OPWpauGEi-JMp05RC_A.png"
-                    alt="app store icon"
-                  />
+                  <a href="https://apps.apple.com/us/app/crusht/id1452128566">Download</a>
                 </div>
               </div>
             </div>
@@ -68,75 +63,14 @@ function Home() {
                   />
                 </div>
                 <div className="card-back">
-                  <h1>React Project</h1>
-                  <p>Click to see github</p>
-                  <p>Or dont</p>
+                  <h1>Snippet</h1>
+                  <p>Save your code so you can use it later</p>
+                  <a href="https://polar-plateau-33965.herokuapp.com/login">Go to Site</a>
                 </div>
               </div>
             </div>
           </div>
-        </div>
-        <div className="col-md-1"></div>
-      </div>
-      <div className="row">
-        <div className="col-md-1"></div>
-        <div className="col-md-10">
-          <div className="card-list">
-            <div className="card">
-              <div className="inner-card">
-                <div className="card-front">
-                  <img
-                    className="card-img"
-                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"
-                    alt="Javascript"
-                  />
-                </div>
-                <div className="card-back">
-                  <h1>Note Taker</h1>
-                  <p>Webapp for all your note needs </p>
-                  <a href="https://github.com/wlawsonkelly/note-taker" target="_blank">Github</a>
-                </div>
-              </div>
-            </div>
-            <div className="card">
-              <div className="inner-card">
-                <div className="card-front">
-                  <img
-                    className="card-img"
-                    src="https://developer.apple.com/swift/images/swift-og.png"
-                    alt="Swift"
-                  />
-                </div>
-                <div className="card-back">
-                  <h1>Crusht</h1>
-                  <p>Dating app that allows users to match via venues</p>
-                  <img
-                    className="app-store-img" 
-                    src="https://miro.medium.com/max/8982/1*V9-OPWpauGEi-JMp05RC_A.png"
-                    alt="app store icon"
-                  />
-                </div>
-              </div>
-            </div>
-            <div className="card">
-              <div className="inner-card">
-                <div className="card-front">
-                  <img
-                    className="card-img"
-                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
-                    alt="React"
-                  />
-                </div>
-                <div className="card-back">
-                  <h1>React Project</h1>
-                  <p>Click to see github</p>
-                  <p>Or dont</p>
-                </div>
-              </div>
-            </div>
           </div>
-        </div>
-        <div className="col-md-1"></div>
       </div>
       <br />
       <div className ="row">
