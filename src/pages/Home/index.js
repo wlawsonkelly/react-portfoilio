@@ -87,7 +87,7 @@ function Home() {
             <h1 style={{color:"white", textAlign:"left"}}>My Resume</h1>
           </div>
       </div>
-      <iframe src="https://drive.google.com/file/d/1f7iOEqHy-xeDoNkJJDK7qiddYT4Ri69h/preview" width="75%" height="900px%"></iframe>      </div>
+      <iframe src="https://drive.google.com/file/d/1OkCFnzelgnxgsO0Gke8bu6BHQWvhw-Ws/preview" width="640" height="900"></iframe>      </div>
     );
   }
 
